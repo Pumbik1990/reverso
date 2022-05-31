@@ -1,1 +1,1 @@
-# reverso
+Install Reverso "переводчик" linux
